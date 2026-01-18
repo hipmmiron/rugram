@@ -1,8 +1,8 @@
 code/
+UI/
+static/
 start/
-ssh/
 TOKEN
-*.pyc
+*.db
 __pycache__/
-messages.db
-.git/
+.vscode/
